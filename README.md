@@ -19,4 +19,4 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
-Comecei recentemente a estudar estas tecnologias, e estou apaixonado pelo tanto de possibilidades que elas nos oferecem. E o meu maior desejo é tormar-me um grande Desenvolvedor e mudar o rumo da minha vida e da minha família, através da tecnologia.
+Comecei recentemente a estudar estas tecnologias, e estou apaixonado pelo tanto de possibilidades que elas nos oferecem. E o meu maior desejo é ser um grande Desenvolvedor e mudar o rumo da minha vida e da minha família, através da tecnologia.
