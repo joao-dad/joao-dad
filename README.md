@@ -2,7 +2,7 @@
 ### Olá Eu sou o João Silva 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-cardoso-da-silva)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaocardosodasilva78@outlook.com)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaocardosodasilva78@outlook.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/euclides_king)
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-dad&show_icons=true&theme=dracula)
