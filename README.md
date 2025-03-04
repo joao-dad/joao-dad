@@ -16,4 +16,4 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-Comecei recentemente a estudar estas tecnologias, e estou apaixonado pelo tanto de possibilidades que elas nos oferecem. E o meu maior desejo é ser um grande Desenvolvedor e mudar o rumo da minha vida e da minha família, através da tecnologia.
+Olá! Sou um profissional com mais de 3 anos de experiência. Tenho um grande interesse em aprender novas tecnologias e desenvolver habilidades que me permitam contribuir para o crescimento da minha carreira. Estou sempre em busca de novos desafios e oportunidades para me desenvolver como profissional
