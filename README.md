@@ -5,7 +5,7 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaocardosodasilva78@outlook.com)
 
 ![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-dad&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-dad&layout=compact)
 
 ## Tecnologias que uso
 
